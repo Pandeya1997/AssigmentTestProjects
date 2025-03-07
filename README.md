@@ -13,3 +13,4 @@ Selenium Project #1
 7. Run them and share results.
 8. Push the code to github.com
 9. Git repo - ReadMe.md a Screen shot of allure.
+10. 
