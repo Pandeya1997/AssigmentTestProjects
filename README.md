@@ -13,3 +13,14 @@ Selenium Project #1
 7. Run them and share results.
 8. Push the code to github.com
 9. Git repo - ReadMe.md a Screen shot of allure.
+
+Selenium Project#2 - Mini Project
+
+1. open the url - https://katalon-demo-cura.herokuapp.com/
+2. click on the make appoinment button
+3. verify that url changes -
+4. assert time.sleep(3)
+5. enter the username, password
+6. next page verify the current url
+7. make appoinment text on the web page.
+
