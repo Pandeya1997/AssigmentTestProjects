@@ -7,6 +7,8 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.openqa.selenium.edge.EdgeOptions;
 import org.testng.Assert;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
@@ -15,13 +17,17 @@ import org.testng.annotations.Test;
 import java.util.List;
 
 public class Katalonapp_Login_Postive_edgeBrowser {
-ChromeOptions options;
+    EdgeOptions options;
+//ChromeOptions options;
 WebDriver driver;
 @BeforeSuite
     public void setUp(){
-    options = new ChromeOptions();
+   // options = new ChromeOptions();
+    options = new EdgeOptions();
     options.setPageLoadStrategy(PageLoadStrategy.NORMAL);
-    driver = new ChromeDriver(options);
+    //driver = new ChromeDriver(options);
+    driver = new EdgeDriver(options);
+
 
 }
 @Test
