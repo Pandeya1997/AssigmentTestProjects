@@ -24,3 +24,12 @@ Selenium Project#2 - Mini Project
 6. next page verify the current url
 7. make appoinment text on the web page.
 
+Selenium Mini Project #3
+
+1. Open the URL - https://www.idrive360.com/enterprise/login
+2. Enter the username, password
+3. Verify that Trial is fnished and current URL also
+4. Add a logic to add Allure Screen for the Trail end.
+5. user_id:- augtest_040823@idrive.com
+6. password:- 123456
+
