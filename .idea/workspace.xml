@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd905fda-aa4c-4b72-b59c-5fc4315331c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Selenium_Mini_Project3/idrive360.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/selenumProject2/Katalonapp_Login_Postive_edgeBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/selenumProject2/Katalonapp_Login_Postive_edgeBrowser.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +46,8 @@
     "TestNG.LoginPageAutomation.executor": "Debug",
     "TestNG.VWO_Login_Negative.executor": "Run",
     "TestNG.VWO_Login_Postive.executor": "Run",
+    "TestNG.idrive360.IDrive360Login.executor": "Run",
+    "TestNG.idrive360.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
@@ -55,7 +57,7 @@
       <recent name="com.thetestingacadmey.selenumProject2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Katalonapp_Login_Postive_edgeBrowser">
+  <component name="RunManager" selected="TestNG.idrive360">
     <configuration name="Katalonapp_Login_Postive" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
@@ -91,24 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Katalonapp_Login_Postive.Kataloan_App_Login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AssigmentTestProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.selenumProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.selenumProject2" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.selenumProject2.Katalonapp_Login_Postive" />
-      <option name="METHOD_NAME" value="Kataloan_App_Login" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Katalonapp_Login_Postive_edgeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
@@ -126,17 +110,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginPageAutomation" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="idrive360" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.selenumProject1.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.Selenium_Mini_Project3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.selenumProject1" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.selenumProject1.LoginPageAutomation" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Selenium_Mini_Project3" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Selenium_Mini_Project3.idrive360" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="idrive360.IDrive360Login" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssigmentTestProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.Selenium_Mini_Project3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Selenium_Mini_Project3" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Selenium_Mini_Project3.idrive360" />
+      <option name="METHOD_NAME" value="IDrive360Login" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -145,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.idrive360" />
+        <item itemvalue="TestNG.idrive360.IDrive360Login" />
         <item itemvalue="TestNG.Katalonapp_Login_Postive_edgeBrowser" />
         <item itemvalue="TestNG.Katalonapp_Login_Postive" />
         <item itemvalue="TestNG.Katalonapp_Login_Postive.App_Login" />
-        <item itemvalue="TestNG.Katalonapp_Login_Postive.Kataloan_App_Login" />
-        <item itemvalue="TestNG.LoginPageAutomation" />
       </list>
     </recent_temporary>
   </component>
