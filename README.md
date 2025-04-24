@@ -33,3 +33,6 @@ Selenium Mini Project #3
 5. user_id:- augtest_040823@idrive.com
 6. password:- 123456
 
+Problem #1  --> Search for the Macmini in the FLipkart.com and click the search icon svg 
+Problem #2 --> open the map application of svg india map find the rajaasthan and click on it 
+
