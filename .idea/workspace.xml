@@ -5,47 +5,81 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd905fda-aa4c-4b72-b59c-5fc4315331c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Problems/IndiaMapFindRajaasthan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Problems/SVGsearch_Flipkart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.csv" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/behaviors.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/behaviors.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/behaviors.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/packages.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/packages.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/suites.csv" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/suites.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/suites.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/suites.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/1465cca9e94d4836.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/1a7fb2aa93e7a208.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/2777d03c5f28eeb5.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/2ce466819e2ad3f8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3b06e67f984eaf5c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/492dea986c69172b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/4c349b3a9ff9c798.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/56612c718480e748.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/6e86ae90d0fdd926.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/75ce3fc150609d12.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/770255fe0138f01d.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7e2c4945c0e1ce1e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7f981053a1a4bc6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/85336eec8eab676c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/9f7a5d8e1522eecf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a2397d633b5b015f.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a24581ac8c7a6f47.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/abc8c8e9224588e2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/abf5d48973378a7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ad08ea689324b4fe.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b1e741d0d3ca7b7e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c7f5c9970deb7acf.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/cd5f34ff407c5586.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d231353e37aa83e2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/dd7cb883279bdff1.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/de522e4babd24279.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e11b96c1337e39d7.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e18151d3d3c567cb.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ec1727949372f8b2.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f6502132d984bc5c.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f6e546af1cd75da6.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f844456d98ae576b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f948ec257de5d464.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/fbda06a5d8900989.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/fc0e6489a78f3855.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/1127b5f3407500e5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/14210059400ce1e3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/166bbeca659c7447.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/1c103a8a2d615ec7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/20836726e3ac5878.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/2581e52d0ae19725.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/2ef492139de00108.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/37c298b42767f76d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/39c10c7422da844c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/3a54594223dbe7a9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/43367aeada355cd1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/47605e40e97efe58.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/498d19791db1784b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/4bef4f53b33137f9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/50652eff9d16f924.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/5b34ae407ee7b17.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/5f8a38cf42ba12c4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/63473041fc732ab0.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/64f73e32ea0b0f95.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/6ba5cd422e440129.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/70834d1c162e3580.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7252184c16c8efd4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/76972062609b4250.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/77b49cb03151dc0a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/78d9a3ae6e748867.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7986dc9334e6880e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/7e5fa0af332ec59f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/88f78fb2afac289a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/93aaee71dc9c5c0d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/9560660fe4733f26.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/97edaa01ec9ab7e2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/9be5668f7208b132.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/9d4e493b59ce4c79.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a6fd2e698be0aeb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/a9b80222a0e23292.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/af90eb26355393ac.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/aff6df114a60f462.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/b530d9830bc1821.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/bd23fba2e6949a6b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c0fb809e0fb17760.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c3cc1aabf191df91.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c41f1b2feb7f70fb.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c73e3c770e3abeb1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/c84aa1f4708e10ee.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/cac4b35c586bb27c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d009b2693074d556.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d087d5b701918643.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d0b73f8da88c30c1.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d0d075337edf9c19.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d22021e70db0788d.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d30f932ea0cbd46e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d54c75bc42ed8138.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/d9ac9e9fa2c86219.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/de2f8e30a5934e08.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/df480a85ad729a1c.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/e0fd87cd2a9fa3a7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ea8b55205371d45f.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/eb9ce402476de7e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ee0d8ed13141e298.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ee94bfee9f80511a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f13edb1c908abde.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f1c5265ba0dc7af4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f2a42a42fcfcf724.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/f3dd9d1adbf8e51a.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/fae64fae81ee0195.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/fd0a663876ccd3ca.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/data/test-cases/ff71b2049564aacd.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/data/timeline.json" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/data/timeline.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/prometheusData.txt" afterDir="false" />
@@ -95,11 +129,13 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.IndiaMapFindRajaasthan.Find_SVG_Search_Element_Flipkart.executor": "Run",
     "TestNG.Katalonapp_Login_Postive.App_Login.executor": "Run",
     "TestNG.Katalonapp_Login_Postive.Kataloan_App_Login.executor": "Run",
     "TestNG.Katalonapp_Login_Postive.executor": "Run",
     "TestNG.Katalonapp_Login_Postive_edgeBrowser.executor": "Run",
     "TestNG.LoginPageAutomation.executor": "Debug",
+    "TestNG.SVGsearch.executor": "Run",
     "TestNG.VWO_Login_Negative.executor": "Run",
     "TestNG.VWO_Login_Postive.executor": "Run",
     "TestNG.idrive360.IDrive360Login.executor": "Run",
@@ -110,38 +146,22 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.thetestingacadmey.Problems" />
       <recent name="com.thetestingacadmey.selenumProject2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.idrive360">
-    <configuration name="Katalonapp_Login_Postive" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.IndiaMapFindRajaasthan.Find_SVG_Search_Element_Flipkart">
+    <configuration name="IndiaMapFindRajaasthan.Find_SVG_Search_Element_Flipkart" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.selenumProject2.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.Problems.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.selenumProject2" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.selenumProject2.Katalonapp_Login_Postive" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Katalonapp_Login_Postive.App_Login" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AssigmentTestProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.selenumProject2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.selenumProject2" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.selenumProject2.Katalonapp_Login_Postive" />
-      <option name="METHOD_NAME" value="App_Login" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Problems" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Problems.IndiaMapFindRajaasthan" />
+      <option name="METHOD_NAME" value="Find_SVG_Search_Element_Flipkart" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -159,6 +179,23 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.thetestingacadmey.selenumProject2" />
       <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.selenumProject2.Katalonapp_Login_Postive_edgeBrowser" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SVGsearch_Flipkart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AssigmentTestProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.thetestingacadmey.Problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Problems" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Problems.SVGsearch_Flipkart" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -203,11 +240,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.IndiaMapFindRajaasthan.Find_SVG_Search_Element_Flipkart" />
+        <item itemvalue="TestNG.SVGsearch_Flipkart" />
         <item itemvalue="TestNG.idrive360" />
         <item itemvalue="TestNG.idrive360.IDrive360Login" />
         <item itemvalue="TestNG.Katalonapp_Login_Postive_edgeBrowser" />
-        <item itemvalue="TestNG.Katalonapp_Login_Postive" />
-        <item itemvalue="TestNG.Katalonapp_Login_Postive.App_Login" />
       </list>
     </recent_temporary>
   </component>
