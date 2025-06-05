@@ -5,8 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd905fda-aa4c-4b72-b59c-5fc4315331c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Windohandling/Relativeloctors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1bab5b9d-4434-4214-af25-a9b00e5f8a80-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/32d85765-6f68-408e-b671-399cb1b8c862-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/473fadb8-9fd8-4d6e-a4a3-d157c76a1541-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/54921841-2b4b-4220-9947-4ad743b529ea-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/587b28d6-9776-4a0d-924a-e2446d6d1b6a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/680adea1-be94-43c7-9307-889245cbe36e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ca1dda37-220f-49f0-836a-f04a083cc236-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/da390641-fa1a-4d7c-bb8a-9ab76435b654-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/IRCTC/Normal_Pay_UPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/IRCTC/Normal_Wallet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/IRCTC/Tatkal_Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Scoreboard/Data_Driven/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Scoreboard/Data_Driven/scoreboardLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testData.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/export/influxDbData.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/allure-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/allure-report/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Windohandling/Relativeloctors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/thetestingacadmey/Windohandling/Relativeloctors.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +46,16 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2tylDrXs69hrMwuNSXlzRoeD2h1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.Hrllo.executor": "Run",
     "JUnit.AppTest.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
@@ -46,6 +67,8 @@
     "TestNG.Katalonapp_Login_Postive.executor": "Run",
     "TestNG.Katalonapp_Login_Postive_edgeBrowser.executor": "Run",
     "TestNG.LoginPageAutomation.executor": "Debug",
+    "TestNG.Normal_Wallet.IRTC_Ticket_Booking.executor": "Run",
+    "TestNG.Normal_Wallet.executor": "Run",
     "TestNG.Relativeloctors.PostiveTest.executor": "Run",
     "TestNG.Relativeloctors.executor": "Run",
     "TestNG.SVGsearch.executor": "Run",
@@ -53,8 +76,11 @@
     "TestNG.VWO_Login_Postive.executor": "Run",
     "TestNG.idrive360.IDrive360Login.executor": "Run",
     "TestNG.idrive360.executor": "Run",
+    "TestNG.scoreboardLogin.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -63,36 +89,36 @@
       <recent name="com.thetestingacadmey.selenumProject2" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Relativeloctors.PostiveTest">
-    <configuration name="IndiaMapFindRajaasthan.Find_SVG_Search_Element_Flipkart" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.scoreboardLogin">
+    <configuration name="Normal_Wallet" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.Problems.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.IRCTC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Problems" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Problems.IndiaMapFindRajaasthan" />
-      <option name="METHOD_NAME" value="Find_SVG_Search_Element_Flipkart" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.IRCTC" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.IRCTC.Normal_Wallet" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Katalonapp_Login_Postive_edgeBrowser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Normal_Wallet.IRTC_Ticket_Booking" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.selenumProject2.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.IRCTC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.selenumProject2" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.selenumProject2.Katalonapp_Login_Postive_edgeBrowser" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.IRCTC" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.IRCTC.Normal_Wallet" />
+      <option name="METHOD_NAME" value="IRTC_Ticket_Booking" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -134,16 +160,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SVGsearch_Flipkart" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="scoreboardLogin" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AssigmentTestProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.thetestingacadmey.Problems.*" />
+          <option name="PATTERN" value="com.thetestingacadmey.Scoreboard.Data_Driven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Problems" />
-      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Problems.SVGsearch_Flipkart" />
+      <option name="PACKAGE_NAME" value="com.thetestingacadmey.Scoreboard.Data_Driven" />
+      <option name="MAIN_CLASS_NAME" value="com.thetestingacadmey.Scoreboard.Data_Driven.scoreboardLogin" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -153,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Relativeloctors.PostiveTest" />
+        <item itemvalue="TestNG.scoreboardLogin" />
+        <item itemvalue="TestNG.Normal_Wallet.IRTC_Ticket_Booking" />
+        <item itemvalue="TestNG.Normal_Wallet" />
         <item itemvalue="TestNG.Relativeloctors" />
-        <item itemvalue="TestNG.Katalonapp_Login_Postive_edgeBrowser" />
-        <item itemvalue="TestNG.IndiaMapFindRajaasthan.Find_SVG_Search_Element_Flipkart" />
-        <item itemvalue="TestNG.SVGsearch_Flipkart" />
+        <item itemvalue="TestNG.Relativeloctors.PostiveTest" />
       </list>
     </recent_temporary>
   </component>
@@ -171,5 +197,8 @@
       <updated>1741332087659</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

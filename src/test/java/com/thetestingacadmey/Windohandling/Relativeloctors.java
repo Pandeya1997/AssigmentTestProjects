@@ -42,7 +42,7 @@ public class Relativeloctors {
          WebElement FindSearch = wait.until(ExpectedConditions.visibilityOfElementLocated(
                 By.xpath("//input[@placeholder='Search']")) );
         // Send text after the element is ready
-            FindSearch.sendKeys("india");
+            FindSearch.sendKeys("india"+Keys.ENTER);
 
 
 //        Thread.sleep(5000);
@@ -51,16 +51,16 @@ public class Relativeloctors {
 
         // Xpath India search first elements name
         //p[@class= "font-bold text-[1.5em] sm:text-[1.7em] truncate"][1]
-//        Thread.sleep(5000);
+        Thread.sleep(5000);
  WebElement IndiaFistAQIPoorcity = driver.findElement(By.xpath("//p[@class= \"font-bold text-[1.5em] sm:text-[1.7em] truncate\"][1]"));
  WebElement aqi = driver.findElement(with(By.xpath("//span[@class=\"text-[1.5em] sm:text-[1.7em]\"][1]")).toRightOf(IndiaFistAQIPoorcity));
  WebElement rankAQI = driver.findElement(with(By.xpath("//p[@class=\"location-rank text-[1.4em] sm:text-[1.7em] text-center h-fit text-title dark:text-dark_title font-normal\" ][1]")).toLeftOf(IndiaFistAQIPoorcity));
 
  System.out.println("Rank =- "+rankAQI.getText()+"  City Name =-  "+ IndiaFistAQIPoorcity.getText()+"   AQI =- "+aqi.getText());
 
-//        Actions actions = new Actions(driver);
-//        actions.sendKeys(Keys.PAGE_DOWN).build().perform();
-//        System.out.println("Scroll Down");
+        Actions actions = new Actions(driver);
+        actions.sendKeys(Keys.PAGE_DOWN).build().perform();
+        System.out.println("Scroll Down");
         Thread.sleep(3000);
 
     }
